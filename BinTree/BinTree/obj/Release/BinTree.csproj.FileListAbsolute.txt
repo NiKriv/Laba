@@ -1,0 +1,7 @@
+C:\Users\mrsyu\Desktop\BinTree\BinTree\bin\Release\BinTree.exe.config
+C:\Users\mrsyu\Desktop\BinTree\BinTree\bin\Release\BinTree.exe
+C:\Users\mrsyu\Desktop\BinTree\BinTree\bin\Release\BinTree.pdb
+C:\Users\mrsyu\Desktop\BinTree\BinTree\obj\Release\BinTree.csprojAssemblyReference.cache
+C:\Users\mrsyu\Desktop\BinTree\BinTree\obj\Release\BinTree.csproj.CoreCompileInputs.cache
+C:\Users\mrsyu\Desktop\BinTree\BinTree\obj\Release\BinTree.exe
+C:\Users\mrsyu\Desktop\BinTree\BinTree\obj\Release\BinTree.pdb
